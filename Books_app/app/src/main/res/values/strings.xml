@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Books_app</string>
+    <string name="spnLabel">Please select a Book:</string>
+    <string name="searchBtnLabel">Search</string>
+</resources>
